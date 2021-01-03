@@ -12,7 +12,7 @@ resource "aws_instance" "kalyan" {
 }
 }
 resource "aws_s3_bucket" "kalyan-test" {
-        bucket = "ajji19821"
+        bucket = "ajji19822"
 }
 
 
