@@ -5,9 +5,9 @@ provider "aws" {
 }
 
 
-}
+
 resource "aws_s3_bucket" "kalyan-test" {
-        bucket = "ajji19823"
+        bucket = "ajji198234"
 }
 
 
